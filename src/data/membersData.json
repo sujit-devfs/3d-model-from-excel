@@ -1,0 +1,122 @@
+[
+    {
+        "Member": "1",
+        "Start Node": "4",
+        "End Node": "30"
+    },
+    {
+        "Member": "2",
+        "Start Node": "32",
+        "End Node": "8"
+    },
+    {
+        "Member": "3",
+        "Start Node": "31",
+        "End Node": "6"
+    },
+    {
+        "Member": "4",
+        "Start Node": "7",
+        "End Node": "1"
+    },
+    {
+        "Member": "5",
+        "Start Node": "17",
+        "End Node": "28"
+    },
+    {
+        "Member": "6",
+        "Start Node": "17",
+        "End Node": "21"
+    },
+    {
+        "Member": "7",
+        "Start Node": "17",
+        "End Node": "19"
+    },
+    {
+        "Member": "8",
+        "Start Node": "20",
+        "End Node": "14"
+    },
+    {
+        "Member": "9",
+        "Start Node": "3",
+        "End Node": "16"
+    },
+    {
+        "Member": "10",
+        "Start Node": "9",
+        "End Node": "13"
+    },
+    {
+        "Member": "11",
+        "Start Node": "26",
+        "End Node": "22"
+    },
+    {
+        "Member": "12",
+        "Start Node": "29",
+        "End Node": "27"
+    },
+    {
+        "Member": "13",
+        "Start Node": "10",
+        "End Node": "23"
+    },
+    {
+        "Member": "14",
+        "Start Node": "24",
+        "End Node": "27"
+    },
+    {
+        "Member": "15",
+        "Start Node": "11",
+        "End Node": "27"
+    },
+    {
+        "Member": "16",
+        "Start Node": "5",
+        "End Node": "2"
+    },
+    {
+        "Member": "17",
+        "Start Node": "15",
+        "End Node": "18"
+    },
+    {
+        "Member": "18",
+        "Start Node": "25",
+        "End Node": "12"
+    },
+    {
+        "Member": "19",
+        "Start Node": "33",
+        "End Node": "34"
+    },
+    {
+        "Member": "20",
+        "Start Node": "35",
+        "End Node": "36"
+    },
+    {
+        "Member": "21",
+        "Start Node": "37",
+        "End Node": "38"
+    },
+    {
+        "Member": "22",
+        "Start Node": "39",
+        "End Node": "40"
+    },
+    {
+        "Member": "23",
+        "Start Node": "41",
+        "End Node": "42"
+    },
+    {
+        "Member": "24",
+        "Start Node": "43",
+        "End Node": "44"
+    }
+]
